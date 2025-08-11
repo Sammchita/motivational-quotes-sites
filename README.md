@@ -2,9 +2,9 @@
 A simple and inspiring web app that displays random motivational quotes to uplift your mood and boost productivity.
 
 ## Features
-- Generates a new motivational quote with a single click.
-- Clean, user-friendly interface.
-- Easy to use on desktop and mobile devices.
+- This website generates a new motivational quote with a single click.
+- This website has clean and user-friendly interface.
+- This website is also easy to use on desktop and mobile devices.
 
 ## Installation
 1. Clone the repository:  
